@@ -1,0 +1,759 @@
+{
+  "id": "pg_3p09khfjyw",
+  "title": "Sunspring",
+  "slug": "sunspring-html",
+  "seo": {
+    "description": "​ Sunspring . The first film ever written entirely by an artificial intelligence. Written by Benjamin - a collaboration with Ross Goodwin . Starring Thomas Middleditch , Elisabeth...",
+    "image": "media/2026/11/screen-shot-2018-06-20-at-16-04-57-orig--axpj.png"
+  },
+  "sections": [
+    {
+      "id": "sec_ywa9mhgsbz",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_86z6fkyhkt",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/1353322000-fdqn.png",
+              "alt": "Therefore Films",
+              "width": 52,
+              "height": 50,
+              "mediaId": "med_fdqn4t6j67"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1",
+      "anchor": "header"
+    },
+    {
+      "id": "sec_gqzcvfj7n4",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_xx7gf4z0bt",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Oscar Sharp",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/oscar-sharp-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Watch Films",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/watch-films-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Awards etc.",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/awards-etc-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Press & Quotes",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/press-quotes-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Contact",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/contact-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Links",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/links-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_kv7tw1da1e",
+          "type": "embed",
+          "v": 1,
+          "fields": {
+            "embed": {
+              "type": "url",
+              "url": "https://www.youtube.com/embed/LY7x2Ihqjmc?wmode=opaque"
+            },
+            "title": "Embedded content",
+            "aspect": "16:9",
+            "height": 240
+          }
+        },
+        {
+          "id": "blk_9396r7vhw3",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Sunspring",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "http://www.imdb.com/title/tt5794766/",
+                            "newTab": true
+                          }
+                        },
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ".",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " The first film ever written entirely by an artificial intelligence."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Written by "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Benjamin",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "http://benjamin.wtf",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " - a collaboration with "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Ross Goodwin",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "http://rossgoodwin.com/",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Starring "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Thomas Middleditch",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "http://www.thomasmiddleditch.com/",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", Elisabeth Grey & Humphrey Ker. An "
+                    },
+                    {
+                      "type": "text",
+                      "text": "End Cue",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "http://endcue.com/",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " production. Full "
+                    },
+                    {
+                      "type": "text",
+                      "text": "credits",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "http://www.imdb.com/title/tt5794766/fullcredits",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Get the screenplay "
+                    },
+                    {
+                      "type": "text",
+                      "text": "here",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "/media/files/sunspring-final-mkde.pdf"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Get hi-res stills "
+                    },
+                    {
+                      "type": "text",
+                      "text": "here",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://www.dropbox.com/sh/9x3pu4kc0ldeaqh/AAB0Ie75-dV6CMV5D6CMoYKOa?dl=0",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ". Get the song, also written by Benjamin, "
+                    },
+                    {
+                      "type": "text",
+                      "text": "here",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://soundcloud.com/tigerandman/home-on-the-land",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_wyempqb8bg",
+          "type": "table",
+          "v": 1,
+          "fields": {
+            "columns": [
+              {
+                "label": "Column 2",
+                "highlight": false
+              }
+            ],
+            "rows": [
+              {
+                "label": "Benjamin's second film IT'S NO GAME",
+                "group": false,
+                "cells": [
+                  {
+                    "value": "Benjamin's third film ZONE OUT"
+                  }
+                ]
+              }
+            ]
+          },
+          "variant": "lines"
+        },
+        {
+          "id": "blk_bpctfm631z",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1,
+                    "preset": "h2"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "SELECTED COVERAGE"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "​(for press or other enquires "
+                    },
+                    {
+                      "type": "text",
+                      "text": "get in touch",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "/contact-html/"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ")"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_1qeg7ag3by",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "INTERVIEWS ​​Ars Technica Chicago Tribune Arte FiveThirtyEight Popular Science NPR - The Pulse Canadian National Radio Australian National Radio Canal+ (French National TV) Slashfilm El Pais ​ ​ARTICLES (100+ Worldwide) ​ ​The Guardian ​Indiewire‎ Sunspring: Herald of the Future Financial Times Daily Mail NPR Marketplace New York Post Dim the House Lights Le Monde (french) La Repubblica (italian) ​​Spiegel (german) Techcrunch Japan (japanese) Korea Times Motherboard ​Racked CBS News Singularity Hub Ladygeekgirl Mic Bustle The Mary Sue Daily Express International Business Times Irish Times Forbes Slate Big Think Inquisitr CNET BoingBoing Quartz A.V. Club Huffington Post io9 Kinja Gizmodo Techcrunch The Quint 9 News Australia Reddit Letterboxd Slashdot Kill Screen NoFilmSchool Engadget Fast Company Yahoo Tech Cinefiles Digital Spy Futurism Inquirer mental_floss Inverse Gear Patrol New Atlas ZME Science Collider Hypebeast TheNextWeb Comicbook Mashable The Film Stage BGR Silicon Republic Sputnik News Daily Dot Cyber Shack Blastr Catch News The Drive ​Mouv Radio (french) RTS (french) Fayerwayer (spanish) Mostaqbal (arabic) Estadao (portuguese) Agambiarra (portuguese) Reporterdiario (portuguese) Zeit (german) Computerra (russian) Goygoygoy (turkish) Business Day South Africa IBT India Bogoshorts SPEAKING​ TEDx Boston Sundance Film Festival Cannes Lions AT&T SHAPE SXSW Interactive Festival NEXT Conference Seoul Berlinale Film Festival GitHub Universe Lincoln Centre NYC Lillehammer University · ​​wikipedia.org/wiki/sunspring TWITTER - peaked at 2 tweets per second Watch a short SF film gloriously fail the Turing Test: https://t.co/4uJRF3tC5z— Neil Gaiman (@neilhimself) June 10, 2016 Wow https://t.co/31eDpvMtu5— William Gibson (@GreatDismal) June 9, 2016 This sci fi film is written by AI algorithm, and it's magnificent. The actors fully commit. https://t.co/AnN0CNM4ln— ben goldacre (@bengoldacre) July 2, 2016 @MrOscarSharp @benjamin_ai @rossgoodwin: I guessed right. :) Benjamin is rather wordy and absurdist, yes?— Margaret E. Atwood (@MargaretAtwood) June 16, 2016 WIRED magazine ​Square Idée on ARTE AT&T SHAPE ​TEDxBOSTON ​Bloomberg ART + AI Keynote at GitHub Universe New York Magazine L'Oeil De Links - CANAL+ Sunspring - L'Oeil de Links du 08/10 ​CBC RADIO - \"q\" - Full Interview Discussion from 32:15, interview from 1:03:00. ​Instagram ​​YouTube - RickyFTW discusses Sunspring on ETC - 123K views."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_7q76mfqsy3",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​For press, or any other enquires, "
+                    },
+                    {
+                      "type": "text",
+                      "text": "get in touch",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "/contact-html/"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Powered by   Create your own unique website with customizable templates.  Get Started",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://www.weebly.com/signup?utm_source=internal&utm_medium=footer",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1",
+      "anchor": "wrapper"
+    },
+    {
+      "id": "sec_yw04yw2490",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_d9w03by6yb",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Oscar Sharp",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/oscar-sharp-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Watch Films",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/watch-films-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Awards etc.",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/awards-etc-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Press & Quotes",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/press-quotes-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Contact",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/contact-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Links",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/links-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    }
+  ]
+}

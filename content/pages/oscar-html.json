@@ -1,0 +1,573 @@
+{
+  "id": "pg_yhn39yep4e",
+  "title": "Oscar",
+  "slug": "oscar-html",
+  "seo": {
+    "description": "Oscar is a BAFTA-nominated filmmaker and Screen International Star of Tomorrow . His work has received many awards internationally , from the likes of Joss Whedon, Guillermo del Toro and Sir Alan...",
+    "image": "media/2026/11/5196290-3-1xbv.jpg"
+  },
+  "sections": [
+    {
+      "id": "sec_brqw9a2cwc",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_z9ay2g51kb",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/1353322000-fdqn.png",
+              "alt": "Therefore Films",
+              "width": 52,
+              "height": 50,
+              "mediaId": "med_fdqn4t6j67"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1",
+      "anchor": "header"
+    },
+    {
+      "id": "sec_a2yqwm631t",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_dv4t6yn0jw",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Oscar Sharp",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/oscar-sharp-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Watch Films",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/watch-films-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Awards etc.",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/awards-etc-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Press & Quotes",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/press-quotes-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Contact",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/contact-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Links",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/links-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_wkfhcq9tqr",
+          "type": "table",
+          "v": 1,
+          "fields": {
+            "columns": [
+              {
+                "label": "Column 2",
+                "highlight": false
+              },
+              {
+                "label": "Column 3",
+                "highlight": false
+              }
+            ],
+            "rows": [
+              {
+                "label": " ",
+                "group": false,
+                "cells": [
+                  {
+                    "value": "OSCAR SHARP"
+                  },
+                  {
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          "variant": "lines"
+        },
+        {
+          "id": "blk_nz9h0zjq57",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "· Oscar is a BAFTA-nominated filmmaker and Screen International Star of Tomorrow. His work has received many awards internationally, from the likes of Joss Whedon, Guillermo del Toro and Sir Alan Parker. With scholarships from Fulbright and BAFTA, he attended at NYU Grad Film, alma mater of Scorsese and Ang Lee, under professors Todd Solondz, Spike Lee & Darren Aronofsky. In 2015 his short T​he Kármán Line was nominated for a BAFTA and released by The New Yorker. He then signed a one-picture blind deal with Tobey Maguire's Material Pictures. In 2016 he and technologist collaborator Ross Goodwin created Benjamin, the world's first artificially-intelligent screenwriter, and Sunspring, the first film written entirely by A.I, starring Thomas Middleditch. They followed this with 2017's It's No Game in which David Hasselhoff plays a version of himself generated by Benjamin, and again in 2018 with Zone Out, for which the original Sunspring cast volunteered to be 'uploaded' into Benjamin. Also in 2017, 20th Century Fox acquired Ben Mezrich's book Woolly: The True Story of the De-Extinction of One of History’s Most Iconic Creatures for Oscar to co-write & direct for the screen. He is represented in the USA by United Talent Agency and in the UK by Independent Talent. He is based in Los Angeles and London."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_2a3sxcwq30",
+          "type": "table",
+          "v": 1,
+          "fields": {
+            "columns": [
+              {
+                "label": "Column 2",
+                "highlight": false
+              },
+              {
+                "label": "Column 3",
+                "highlight": false
+              }
+            ],
+            "rows": [
+              {
+                "label": " ",
+                "group": false,
+                "cells": [
+                  {
+                    "value": ""
+                  },
+                  {
+                    "value": "Get Newsletter"
+                  }
+                ]
+              }
+            ]
+          },
+          "variant": "lines"
+        },
+        {
+          "id": "blk_f1a62emawq",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "updated Autumn 2017",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1,
+                    "preset": "h2"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​GENEROUS SUPPORTERS"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "...and all the amazing people who've donated money and/or talent"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_8wyqxy9h95",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/8408436-3-0rqk.jpg",
+              "alt": "photo: Matt Clark",
+              "width": 872,
+              "height": 572,
+              "mediaId": "med_0rqkaxj4ha"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_96mgndsdg6",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "at 'work' :)"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Powered by   Create your own unique website with customizable templates.  Get Started",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://www.weebly.com/signup?utm_source=internal&utm_medium=footer",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1",
+      "anchor": "wrapper"
+    },
+    {
+      "id": "sec_rrpbs4axww",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_gj92jp2mh2",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Oscar Sharp",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/oscar-sharp-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Watch Films",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/watch-films-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Awards etc.",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/awards-etc-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Press & Quotes",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/press-quotes-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Contact",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/contact-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Links",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/links-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    }
+  ]
+}

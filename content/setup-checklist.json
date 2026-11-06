@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "source": "import",
+  "from": "WordPress",
+  "items": [
+    {
+      "id": "custom-code",
+      "kind": "custom-code",
+      "title": "Check special features",
+      "detail": "Your old site had add-ons (chat, booking or other widgets). See which ones you still need.",
+      "where": [
+        "/films-by-benjamin-the-ai.html",
+        "/industry-screener.html",
+        "/benjamin.html",
+        "/press--quotes.html",
+        "/sunspring.html",
+        "/youtube.html",
+        "/sketchbook.html"
+      ],
+      "status": "todo"
+    }
+  ]
+}

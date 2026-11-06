@@ -1,17 +1,42 @@
 {
-  "$schema": "https://schema.openspace.host/v1/styles.json",
   "choices": {
     "palette": {
-      "brand": "oklch(0.45 0.05 250)",
-      "neutral": "warm",
+      "brand": "#dea227",
+      "neutral": "pure",
       "contrast": "standard",
-      "source": "curated"
+      "source": "brand"
     },
-    "pairing": "fraunces-hanken",
+    "pairing": "lora-inter",
     "density": "comfortable",
-    "shape": "soft",
+    "shape": "sharp",
     "buttons": "solid",
     "motion": "subtle",
-    "imageTreatment": "none"
+    "imageTreatment": "none",
+    "typography": {
+      "heading": {
+        "family": "Lora",
+        "category": "serif",
+        "weights": [
+          400
+        ]
+      },
+      "body": {
+        "family": "Raleway",
+        "category": "sans-serif",
+        "weights": [
+          400
+        ]
+      },
+      "scale": {
+        "h2": {
+          "size": 25.5,
+          "sizeMobile": 21
+        }
+      }
+    },
+    "layout": {
+      "sectionPadding": 192,
+      "sectionPaddingMobile": 62
+    }
   }
 }

@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "score": 31,
+  "strict": 31,
+  "scorer": "v4-calibrated",
+  "before": 25,
+  "changes": [
+    "h2: 25.5px, 21px on phones",
+    "section padding 192px",
+    "section padding on phones 62px",
+    "button corners sharp"
+  ],
+  "strictBefore": 25,
+  "withoutComponents": 31,
+  "pages": [
+    {
+      "path": "/",
+      "device": "desktop",
+      "score": 59,
+      "strict": 59,
+      "before": 60,
+      "strictBefore": 60,
+      "image": "thumb-home-d.jpg"
+    },
+    {
+      "path": "/",
+      "device": "phone",
+      "score": 68,
+      "strict": 68,
+      "before": 68,
+      "strictBefore": 68,
+      "image": "thumb-home-m.jpg"
+    },
+    {
+      "path": "/awards-etc-html",
+      "device": "desktop",
+      "score": 39,
+      "strict": 39,
+      "before": 27,
+      "strictBefore": 27,
+      "image": "thumb-awards-etc-html-d.jpg",
+      "differs": [
+        "Content width",
+        "Heading 2: present",
+        "Height"
+      ]
+    },
+    {
+      "path": "/awards-etc-html",
+      "device": "phone",
+      "score": 38,
+      "strict": 38,
+      "before": 30,
+      "strictBefore": 30,
+      "image": "thumb-awards-etc-html-m.jpg",
+      "differs": [
+        "Heading 2: present",
+        "Buttons: present",
+        "Section padding"
+      ]
+    },
+    {
+      "path": "/benjamin-html",
+      "device": "desktop",
+      "score": 28,
+      "strict": 28,
+      "before": 14,
+      "strictBefore": 14,
+      "image": "thumb-benjamin-html-d.jpg",
+      "differs": [
+        "Columns",
+        "Heading 2: present",
+        "Height"
+      ]
+    },
+    {
+      "path": "/benjamin-html",
+      "device": "phone",
+      "score": 21,
+      "strict": 21,
+      "before": 16,
+      "strictBefore": 16,
+      "image": "thumb-benjamin-html-m.jpg",
+      "differs": [
+        "Heading 2: present",
+        "Section padding",
+        "Height"
+      ]
+    },
+    {
+      "path": "/cinematographers-html",
+      "device": "desktop",
+      "score": 62,
+      "strict": 62,
+      "before": 55,
+      "strictBefore": 55,
+      "image": "thumb-cinematographers-html-d.jpg",
+      "differs": [
+        "Section padding",
+        "Image placement",
+        "Height"
+      ]
+    },
+    {
+      "path": "/cinematographers-html",
+      "device": "phone",
+      "score": 72,
+      "strict": 72,
+      "before": 72,
+      "strictBefore": 72,
+      "image": "thumb-cinematographers-html-m.jpg"
+    },
+    {
+      "path": "/contact-html",
+      "device": "desktop",
+      "score": 36,
+      "strict": 36,
+      "before": 28,
+      "strictBefore": 28,
+      "image": "thumb-contact-html-d.jpg",
+      "differs": [
+        "Heading",
+        "Columns",
+        "Section padding"
+      ]
+    },
+    {
+      "path": "/contact-html",
+      "device": "phone",
+      "score": 49,
+      "strict": 49,
+      "before": 43,
+      "strictBefore": 43,
+      "image": "thumb-contact-html-m.jpg",
+      "differs": [
+        "Heading",
+        "Height"
+      ]
+    },
+    {
+      "path": "/films-by-benjamin-the-ai-html",
+      "device": "desktop",
+      "score": 20,
+      "strict": 20,
+      "before": 20,
+      "strictBefore": 20,
+      "image": "thumb-films-by-benjamin-the-ai-html-d.jpg",
+      "differs": [
+        "Columns",
+        "Heading 2: present",
+        "Height"
+      ]
+    },
+    {
+      "path": "/films-by-benjamin-the-ai-html",
+      "device": "phone",
+      "score": 22,
+      "strict": 22,
+      "before": 22,
+      "strictBefore": 22,
+      "image": "thumb-films-by-benjamin-the-ai-html-m.jpg",
+      "differs": [
+        "Heading 2: present",
+        "Height"
+      ]
+    }
+  ]
+}

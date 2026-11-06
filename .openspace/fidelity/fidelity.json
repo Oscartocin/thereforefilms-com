@@ -1,0 +1,1065 @@
+{
+  "score": 31,
+  "exact": 30.87,
+  "raw": 72.75,
+  "strict": {
+    "score": 31,
+    "exact": 30.87
+  },
+  "scorer": "v4-calibrated",
+  "pages": [
+    {
+      "path": "/",
+      "original": "https://thereforefilms.weebly.com/",
+      "imported": "/ (local preview)",
+      "viewport": 1440,
+      "score": 59,
+      "structure": 100,
+      "checkScore": 100,
+      "present": 1,
+      "exact": 59.23173708547693,
+      "raw": 93.88476056282154,
+      "checks": [],
+      "sections": [
+        {
+          "index": 0,
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1198px",
+              "imported": "1369px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 100
+        }
+      ],
+      "strict": {
+        "score": 59,
+        "exact": 59.23173708547693,
+        "structure": 100,
+        "checks": 100,
+        "present": 1,
+        "raw": 93.88476056282154
+      },
+      "visual": 0.755
+    },
+    {
+      "path": "/",
+      "original": "https://thereforefilms.weebly.com/",
+      "imported": "/ (local preview)",
+      "viewport": 390,
+      "score": 68,
+      "structure": 100,
+      "checkScore": 100,
+      "present": 1,
+      "exact": 67.68213721900696,
+      "raw": 96.22958267555082,
+      "checks": [],
+      "sections": [
+        {
+          "index": 0,
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1598px",
+              "imported": "1444px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 100
+        }
+      ],
+      "strict": {
+        "score": 68,
+        "exact": 67.68213721900696,
+        "structure": 100,
+        "checks": 100,
+        "present": 1,
+        "raw": 96.22958267555082
+      },
+      "visual": 0.849
+    },
+    {
+      "path": "/awards-etc-html",
+      "original": "https://thereforefilms.weebly.com/awards-etc.html/",
+      "imported": "/awards-etc-html (local preview)",
+      "viewport": 1440,
+      "score": 39,
+      "structure": 56,
+      "checkScore": 55.55555555555556,
+      "present": 1,
+      "exact": 38.532292050012565,
+      "raw": 60.43476951774375,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 2: present",
+          "original": "Raleway 25.5px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Content width",
+          "original": "310px",
+          "imported": "1280px",
+          "ok": false,
+          "fix": "choices.layout.contentWidth = 310",
+          "weight": 2
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "244px",
+          "imported": "192px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "NOMINATIONS /",
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "2654px",
+              "imported": "588px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 80
+        }
+      ],
+      "strict": {
+        "score": 39,
+        "exact": 38.532292050012565,
+        "structure": 56,
+        "checks": 55.55555555555556,
+        "present": 1,
+        "raw": 60.43476951774375
+      },
+      "visual": 0.751
+    },
+    {
+      "path": "/awards-etc-html",
+      "original": "https://thereforefilms.weebly.com/awards-etc.html/",
+      "imported": "/awards-etc-html (local preview)",
+      "viewport": 390,
+      "score": 38,
+      "structure": 64,
+      "checkScore": 64,
+      "present": 1,
+      "exact": 38.43817564191313,
+      "raw": 67.3177871582232,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 2: present",
+          "original": "Raleway 21px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Buttons: present",
+          "original": "Raleway 13.5px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "182px",
+          "imported": "60px",
+          "ok": false,
+          "fix": "choices.layout.sectionPaddingMobile = 182",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "NOMINATIONS /",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#fffefd",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Raleway 21px",
+              "imported": "Lora 21.1px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "3876px",
+              "imported": "4085px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 91
+        }
+      ],
+      "strict": {
+        "score": 38,
+        "exact": 38.43817564191313,
+        "structure": 64,
+        "checks": 64,
+        "present": 1,
+        "raw": 67.3177871582232
+      },
+      "visual": 0.773
+    },
+    {
+      "path": "/benjamin-html",
+      "original": "https://thereforefilms.weebly.com/benjamin.html/",
+      "imported": "/benjamin-html (local preview)",
+      "viewport": 1440,
+      "score": 28,
+      "structure": 43,
+      "checkScore": 42.5,
+      "present": 1,
+      "exact": 28.22694671988229,
+      "raw": 52.300340309661316,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 2: present",
+          "original": "Raleway 25.5px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Benjamin's second film IT'S NO GAME",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Raleway 25.5px",
+              "imported": "Lora 25.5px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "8404px",
+              "imported": "2797px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 49
+        }
+      ],
+      "strict": {
+        "score": 28,
+        "exact": 28.22694671988229,
+        "structure": 43,
+        "checks": 42.5,
+        "present": 1,
+        "raw": 52.300340309661316
+      },
+      "visual": 0.817
+    },
+    {
+      "path": "/benjamin-html",
+      "original": "https://thereforefilms.weebly.com/benjamin.html/",
+      "imported": "/benjamin-html (local preview)",
+      "viewport": 390,
+      "score": 21,
+      "structure": 72,
+      "checkScore": 72.3076923076923,
+      "present": 1,
+      "exact": 20.533848462200815,
+      "raw": 71.11356437187214,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 2: present",
+          "original": "Raleway 21px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "38px",
+          "imported": "60px",
+          "ok": false,
+          "fix": "choices.layout.sectionPaddingMobile = 38",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#fcfcfc",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "222px",
+              "imported": "459px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 80
+        },
+        {
+          "index": 1,
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#fcfcfc",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "288px",
+              "imported": "2795px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 80
+        },
+        {
+          "index": 2,
+          "heading": "Benjamin's second film IT'S NO GAME",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#fcfcfc",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Raleway 21px",
+              "imported": "Lora 21.1px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "545px",
+              "imported": "2795px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 77
+        },
+        {
+          "index": 3,
+          "heading": "SELECTED COVERAGE ​(for press or other enquires get in touch)",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#fcfcfc",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Raleway 21px",
+              "imported": "Lora 21.1px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "9159px",
+              "imported": "2795px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 77
+        }
+      ],
+      "strict": {
+        "score": 21,
+        "exact": 20.533848462200815,
+        "structure": 72,
+        "checks": 72.3076923076923,
+        "present": 1,
+        "raw": 71.11356437187214
+      },
+      "visual": 0.675
+    },
+    {
+      "path": "/cinematographers-html",
+      "original": "https://thereforefilms.weebly.com/cinematographers.html/",
+      "imported": "/cinematographers-html (local preview)",
+      "viewport": 1440,
+      "score": 62,
+      "structure": 75,
+      "checkScore": 75,
+      "present": 1,
+      "exact": 62.00716698004298,
+      "raw": 76.89036076129216,
+      "checks": [
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "338px",
+          "imported": "192px",
+          "ok": false,
+          "fix": "choices.layout.sectionPadding = 338",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "674px",
+              "imported": "588px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 100
+        },
+        {
+          "index": 1,
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#f9f9f9",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 84% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "62px",
+              "imported": "715px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 67
+        }
+      ],
+      "strict": {
+        "score": 62,
+        "exact": 62.00716698004298,
+        "structure": 75,
+        "checks": 75,
+        "present": 1,
+        "raw": 76.89036076129216
+      },
+      "visual": 0.826
+    },
+    {
+      "path": "/cinematographers-html",
+      "original": "https://thereforefilms.weebly.com/cinematographers.html/",
+      "imported": "/cinematographers-html (local preview)",
+      "viewport": 390,
+      "score": 72,
+      "structure": 100,
+      "checkScore": 100,
+      "present": 1,
+      "exact": 71.79264785124258,
+      "raw": 96.70914224931164,
+      "checks": [],
+      "sections": [],
+      "strict": {
+        "score": 72,
+        "exact": 71.79264785124258,
+        "structure": 100,
+        "checks": 100,
+        "present": 1,
+        "raw": 96.70914224931164
+      },
+      "visual": 0.868
+    },
+    {
+      "path": "/contact-html",
+      "original": "https://thereforefilms.weebly.com/contact.html/",
+      "imported": "/contact-html (local preview)",
+      "viewport": 1440,
+      "score": 36,
+      "structure": 64,
+      "checkScore": 63.68421052631579,
+      "present": 1,
+      "exact": 36.089547050512095,
+      "raw": 65.12207867411817,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "Raleway",
+          "imported": "Lora (close stand-in)",
+          "ok": false,
+          "credit": 0.7,
+          "fix": "Site Styles → choices.typography.heading = { family: \"Raleway\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "25.5px",
+          "imported": "25.5px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "Raleway",
+          "imported": "Raleway",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "14px",
+          "imported": "15.6px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0em, uppercase",
+          "imported": "0.01em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "314px",
+          "imported": "192px",
+          "ok": false,
+          "fix": "choices.layout.sectionPadding = 314",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "0px",
+          "imported": "0px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "c o n t a c t",
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Oxygen 50px",
+              "imported": "Lora 25.5px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1868px",
+              "imported": "413px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 29
+        }
+      ],
+      "strict": {
+        "score": 36,
+        "exact": 36.089547050512095,
+        "structure": 64,
+        "checks": 63.68421052631579,
+        "present": 1,
+        "raw": 65.12207867411817
+      },
+      "visual": 0.694
+    },
+    {
+      "path": "/contact-html",
+      "original": "https://thereforefilms.weebly.com/contact.html/",
+      "imported": "/contact-html (local preview)",
+      "viewport": 390,
+      "score": 49,
+      "structure": 79,
+      "checkScore": 79.47368421052632,
+      "present": 1,
+      "exact": 48.91124096613122,
+      "raw": 79.50017109517145,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "Raleway",
+          "imported": "Lora (close stand-in)",
+          "ok": false,
+          "credit": 0.7,
+          "fix": "Site Styles → choices.typography.heading = { family: \"Raleway\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "21px",
+          "imported": "21.1px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "Raleway",
+          "imported": "Raleway",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "14px",
+          "imported": "14.6px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0em, uppercase",
+          "imported": "0.01em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "60px",
+          "imported": "65.5px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "0px",
+          "imported": "0px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "c o n t a c t",
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Oxygen 30px",
+              "imported": "Lora 21.1px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1878px",
+              "imported": "156px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 57
+        }
+      ],
+      "strict": {
+        "score": 49,
+        "exact": 48.91124096613122,
+        "structure": 79,
+        "checks": 79.47368421052632,
+        "present": 1,
+        "raw": 79.50017109517145
+      },
+      "visual": 0.796
+    },
+    {
+      "path": "/films-by-benjamin-the-ai-html",
+      "original": "https://thereforefilms.weebly.com/films-by-benjamin-the-ai.html/",
+      "imported": "/films-by-benjamin-the-ai-html (local preview)",
+      "viewport": 1440,
+      "score": 20,
+      "structure": 33,
+      "checkScore": 33.333333333333336,
+      "present": 1,
+      "exact": 20.12798294965641,
+      "raw": 46.20044947020253,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 2: present",
+          "original": "Raleway 25.5px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "​INTERVIEWS ​​Ars Technica ​Chicago Tribune Arte FiveThirtyEight Popular Science NPR - The Pulse Can",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "9322px",
+              "imported": "3894px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 40
+        }
+      ],
+      "strict": {
+        "score": 20,
+        "exact": 20.12798294965641,
+        "structure": 33,
+        "checks": 33.333333333333336,
+        "present": 1,
+        "raw": 46.20044947020253
+      },
+      "visual": 0.848
+    },
+    {
+      "path": "/films-by-benjamin-the-ai-html",
+      "original": "https://thereforefilms.weebly.com/films-by-benjamin-the-ai.html/",
+      "imported": "/films-by-benjamin-the-ai-html (local preview)",
+      "viewport": 390,
+      "score": 22,
+      "structure": 67,
+      "checkScore": 66.66666666666667,
+      "present": 1,
+      "exact": 22.131141235691903,
+      "raw": 67.30418869971962,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 2: present",
+          "original": "Raleway 21px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "​INTERVIEWS ​​Ars Technica ​Chicago Tribune Arte FiveThirtyEight Popular Science NPR - The Pulse Can",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#fcfcfc",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "11672px",
+              "imported": "3497px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 80
+        }
+      ],
+      "strict": {
+        "score": 22,
+        "exact": 22.131141235691903,
+        "structure": 67,
+        "checks": 66.66666666666667,
+        "present": 1,
+        "raw": 67.30418869971962
+      },
+      "visual": 0.692
+    }
+  ]
+}

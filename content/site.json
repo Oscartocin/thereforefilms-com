@@ -1,39 +1,30 @@
 {
-  "$schema": "https://schema.openspace.host/v1/site.json",
-  "title": "Thereforefilms.com",
-  "nav": [
-    {
-      "type": "page",
-      "page": "pg_6vjf56pn61",
-      "label": "Home"
-    }
-  ],
+  "title": "Therefore Films",
+  "tagline": "Oscar Sharp - Filmmaker",
+  "nav": [],
   "header": {
     "variant": "classic-left",
     "sticky": false,
     "transparentOnHero": false,
-    "mobileMenu": "slide"
+    "mobileMenu": "fullscreen"
   },
   "footer": {
-    "id": "sec_0vq4d4m4e5",
+    "id": "sec_77y8ewbktr",
+    "label": "Footer",
     "layout": {
       "mode": "stack",
       "columns": {
         "d": [
           12
         ]
-      },
-      "align": "center"
+      }
     },
     "style": {
-      "colorTheme": "light",
-      "padding": {
-        "d": "md"
-      }
+      "colorTheme": "light-accent"
     },
     "blocks": [
       {
-        "id": "blk_4ex7000k99",
+        "id": "blk_kcjrr37t0x",
         "type": "text",
         "v": 1,
         "fields": {
@@ -45,7 +36,7 @@
                 "content": [
                   {
                     "type": "text",
-                    "text": "Thereforefilms.com"
+                    "text": "© 2026 Therefore Films"
                   }
                 ]
               }
@@ -55,5 +46,148 @@
       }
     ]
   },
-  "locale": "en"
+  "social": [
+    {
+      "network": "facebook",
+      "url": "https://www.facebook.com/thekarmanlinefilm"
+    }
+  ],
+  "seo": {
+    "titleTemplate": "%s — Therefore Films",
+    "description": "Oscar Sharp - Filmmaker",
+    "image": "media/2026/11/variety-magazine-logo-svg-ng7s.png"
+  },
+  "locale": "en",
+  "integrations": {
+    "analytics": false,
+    "bookingUrl": null,
+    "stripeConnected": false
+  },
+  "redirects": [
+    {
+      "from": "/sign-language.html",
+      "to": "/sign-language-html/",
+      "status": 301
+    },
+    {
+      "from": "/contact.html",
+      "to": "/contact-html/",
+      "status": 301
+    },
+    {
+      "from": "/films-by-benjamin-the-ai.html",
+      "to": "/films-by-benjamin-the-ai-html/",
+      "status": 301
+    },
+    {
+      "from": "/poster--behind-the-scenes.html",
+      "to": "/poster-behind-the-scenes-html/",
+      "status": 301
+    },
+    {
+      "from": "/awards-etc.html",
+      "to": "/awards-etc-html/",
+      "status": 301
+    },
+    {
+      "from": "/cinematographers.html",
+      "to": "/cinematographers-html/",
+      "status": 301
+    },
+    {
+      "from": "/industry-screener.html",
+      "to": "/industry-screener-html/",
+      "status": 301
+    },
+    {
+      "from": "/benjamin.html",
+      "to": "/benjamin-html/",
+      "status": 301
+    },
+    {
+      "from": "/oscar.html",
+      "to": "/oscar-html/",
+      "status": 301
+    },
+    {
+      "from": "/press.html",
+      "to": "/press-html/",
+      "status": 301
+    },
+    {
+      "from": "/teaching.html",
+      "to": "/teaching-html/",
+      "status": 301
+    },
+    {
+      "from": "/interviews.html",
+      "to": "/interviews-html/",
+      "status": 301
+    },
+    {
+      "from": "/press--quotes.html",
+      "to": "/press-quotes-html/",
+      "status": 301
+    },
+    {
+      "from": "/films.html",
+      "to": "/films-html/",
+      "status": 301
+    },
+    {
+      "from": "/works-in-progress.html",
+      "to": "/works-in-progress-html/",
+      "status": 301
+    },
+    {
+      "from": "/sunspring.html",
+      "to": "/sunspring-html/",
+      "status": 301
+    },
+    {
+      "from": "/the-kaacutermaacuten-line.html",
+      "to": "/the-kaacutermaacuten-line-html/",
+      "status": 301
+    },
+    {
+      "from": "/forna.html",
+      "to": "/forna-html/",
+      "status": 301
+    },
+    {
+      "from": "/youtube.html",
+      "to": "/youtube-html/",
+      "status": 301
+    },
+    {
+      "from": "/sketchbook.html",
+      "to": "/sketchbook-html/",
+      "status": 301
+    },
+    {
+      "from": "/links.html",
+      "to": "/links-html/",
+      "status": 301
+    },
+    {
+      "from": "/therefore-friends.html",
+      "to": "/therefore-friends-html/",
+      "status": 301
+    },
+    {
+      "from": "/watch-films.html",
+      "to": "/watch-films-html/",
+      "status": 301
+    },
+    {
+      "from": "/newsletter.html",
+      "to": "/newsletter-html/",
+      "status": 301
+    },
+    {
+      "from": "/oscar-sharp.html",
+      "to": "/oscar-sharp-html/",
+      "status": 301
+    }
+  ]
 }

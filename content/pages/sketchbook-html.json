@@ -1,0 +1,1663 @@
+{
+  "id": "pg_n2d2pxswcx",
+  "title": "Sketchbook",
+  "slug": "sketchbook-html",
+  "seo": {
+    "description": "All made for the Sci-Fi London 48hr Film Challenge",
+    "image": "media/2026/11/1353322000-fdqn.png"
+  },
+  "sections": [
+    {
+      "id": "sec_y763v0kwkt",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_z9ec0d6np1",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/1353322000-fdqn.png",
+              "alt": "Therefore Films",
+              "width": 52,
+              "height": 50,
+              "mediaId": "med_fdqn4t6j67"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1",
+      "anchor": "header"
+    },
+    {
+      "id": "sec_dj5kby6cwx",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_cjkpggx7s8",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Oscar Sharp",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/oscar-sharp-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Watch Films",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/watch-films-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Awards etc.",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/awards-etc-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Press & Quotes",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/press-quotes-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Contact",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/contact-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Links",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/links-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1",
+      "anchor": "wrapper"
+    },
+    {
+      "id": "sec_qt4pxxm25t",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_p52hmtrvzz",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1,
+                    "preset": "h2"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "s k e t c h b o o k",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_qj74yzgjsy",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_7j5xnf3gf8",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "s k e t c h b o o k",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_dywwbn1z1s",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "· scrappy shorts, experiments and curios done ​for fun, class, contests & just generally mucking about."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_f9qqvya0w3",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_hnpx550hkn",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "48hr Challenge Films"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "All made for the Sci-Fi London 48hr Film Challenge"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_0dj89mwa60",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "WARM WELCOME",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://vimeo.com/1079291597"
+          }
+        },
+        {
+          "id": "blk_fxfvqsp524",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "WARM WELCOME"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "2025 – Won first place :)"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_nxzczc1pta",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://vimeo.com/124838349"
+          }
+        },
+        {
+          "id": "blk_y7dr3gnjsc",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Made in 48hrs for the Sci-Fi London Annual Challenge."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Random Parameters:"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Title:"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "PROMISE NOT TO TELL"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Dialogue:"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Just for once, keep calm and ask nicely"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Prop & Action:"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "A handful of ball bearings being held then passed to another person"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Optional Science Idea:"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "A machine that can influence people's dreams"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "( forgot to credit myself for directing it :-/"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "And also our splendid costume designer Christopher Metzger)"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_8bht3kbsaq",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://vimeo.com/63567208"
+          }
+        },
+        {
+          "id": "blk_tthwejahzb",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The High Tones",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://vimeo.com/63567208"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " from "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Oscar Sharp",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://vimeo.com/mroscar"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " on "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Vimeo",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://vimeo.com"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​The High Tones - another Sci-Fi 48hr Film Challenge. Made in 48hrs, plagued with technical problems. Came 3rd. Watch in HD."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_mdegg8xgta",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://vimeo.com/35545167"
+          }
+        },
+        {
+          "id": "blk_nk3gw8mp6e",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Another old scifi 48hr Challenge. This year we wanted to do Victorian Scifi. So we did. Quite badly. Came top 10 anyway :) ​"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_cb0chd6vxg",
+          "type": "embed",
+          "v": 1,
+          "fields": {
+            "embed": {
+              "type": "url",
+              "url": "https://player.vimeo.com/video/92002385?color=ff9933"
+            },
+            "title": "Embedded content",
+            "aspect": "16:9",
+            "height": 240
+          }
+        },
+        {
+          "id": "blk_skecpfmvbb",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Annual indulgence in the Sci-fi London 48hr Film Challenge."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Last year was High Tones (http://vimeo.com/mroscar/hightones), which was placed 3rd by Guillermo Del Toro."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "This year I was busy at Aspen Shortsfest with The Kármán Line (we won two awards!) but was determined to join in anyway. Tradition and all that."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "So this one isn't so much a 48hr challenge as an 8 hour one. Made with a few splendid folk also at the fest and done in five shots."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Also check out this entry by my former team in London (my erstwhile film family), this time directed by Kármán Line's producer Tiernan Hanby: https://vimeo.com/91932659"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_9wzx27rjf8",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Backwoods",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://vimeo.com/40461321"
+          }
+        },
+        {
+          "id": "blk_785fwj6bgc",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Sci Fi 48hr, Number 10",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://vimeo.com/330466249"
+          }
+        },
+        {
+          "id": "blk_kbbt2sk63c",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Last-minute solo entry, 2019"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_888twhecch",
+          "type": "embed",
+          "v": 1,
+          "fields": {
+            "embed": {
+              "type": "url",
+              "url": "https://www.youtube.com/embed/C3hA-fYnqS8?wmode=opaque"
+            },
+            "title": "Embedded content",
+            "aspect": "16:9",
+            "height": 240
+          }
+        },
+        {
+          "id": "blk_bchwx6harb",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Long, long ago... first ever attempt at the sci-fi 48hr film challenge. Features Susan Sheridan, the original Trillian from the Hitchhiker's Guide to the Galaxy."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_fharw501gr",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_p2pk9kgcmc",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Other Bits & Bobs"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_bjjw352zzv",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://vimeo.com/112646793"
+          }
+        },
+        {
+          "id": "blk_h6w3nghrfm",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Class assignment for Darren Aronofsky. Shot alone on an iphone in an evening, cut that night."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Rules:"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Under 2 minutes."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Shoot alone."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Use whatever lo-fi tech you have to hand."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Track; Writers' Waltz by Krzysztof A. Janczak"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_57jmfks7bs",
+          "type": "embed",
+          "v": 1,
+          "fields": {
+            "embed": {
+              "type": "url",
+              "url": "https://player.vimeo.com/video/1935272?color=ff9933"
+            },
+            "title": "Embedded content",
+            "aspect": "16:9",
+            "height": 240
+          }
+        },
+        {
+          "id": "blk_167272fjxv",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Lord Viscount Sir Genghis Stabbington Stabbington deftly exposits his application to the Evil League of Evil."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "A mere formality, of course."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Includes a rendition of the rarely-heard Stabbington Anthem."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Winner of Joss Whedon's Dr Horrible contest."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_3dd0a7tp4r",
+          "type": "embed",
+          "v": 1,
+          "fields": {
+            "embed": {
+              "type": "url",
+              "url": "https://player.vimeo.com/video/59713801?color=ff9933"
+            },
+            "title": "Embedded content",
+            "aspect": "16:9",
+            "height": 240
+          }
+        },
+        {
+          "id": "blk_2csb41b8ej",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "A character Study. Say hello to Connor."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_7yrr1zepmf",
+          "type": "embed",
+          "v": 1,
+          "fields": {
+            "embed": {
+              "type": "url",
+              "url": "https://player.vimeo.com/video/66116381?byline=0&portrait=0&color=ff9933"
+            },
+            "title": "Embedded content",
+            "aspect": "16:9",
+            "height": 240
+          }
+        },
+        {
+          "id": "blk_3q0a5kh60s",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "an NYU Grad Film exercise"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Rules:"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "B&W S16mm"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "No Dialogue"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Exterior Day"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "< 4m"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_pj3gxnq3wr",
+          "type": "embed",
+          "v": 1,
+          "fields": {
+            "embed": {
+              "type": "url",
+              "url": "https://www.youtube.com/embed/1TEc1gRzoc0?wmode=opaque"
+            },
+            "title": "Embedded content",
+            "aspect": "16:9",
+            "height": 240
+          }
+        },
+        {
+          "id": "blk_emnw169135",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Fun little promo for a book. Don't tell anyone, but the butler at the beginning is played by one of the richest men in the world."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_syjeansepb",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://vimeo.com/126346078"
+          }
+        },
+        {
+          "id": "blk_4hy6yw283k",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Penultimate week of NYU. Got the chance to direct an off-the-cuff scene with Peter Deming, cinematographer of Mulholland Drive, I Heart Huckabees, Cabin In The Woods etc etc."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "I feel this is a very serious and important piece of cinema attempting to confront an issue I know I barely understand."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Starring Kate Deming, Julien Léonard Fernandez & Emily Cheeger"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Peter's team were Mia Cioffi Henry​, Jono Chanin​, Laura Valladao​ & Faraday Okoro​."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "#fuckyeahnyu"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_yg1vs12m7c",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://vimeo.com/3809919"
+          }
+        },
+        {
+          "id": "blk_r3fh1xwfv7",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Slideyman. Attempting to win a trip to the best waterslides in the world. Made in half an hour. Came Second."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_tvq52g6jpq",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://vimeo.com/94398392"
+          }
+        },
+        {
+          "id": "blk_sdm75vz3dd",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Class exercise for Todd Solondz done in ten minutes with my buddy Chris, who has even worse OCD than me."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "More sci fi 48hr shenanigans. Very scrappy, but came top 10 again :)"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "​"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_0yfgsp1jq6",
+          "type": "embed",
+          "v": 1,
+          "fields": {
+            "embed": {
+              "type": "url",
+              "url": "https://www.youtube.com/embed/RU8jdgM3oU0?wmode=opaque"
+            },
+            "title": "Embedded content",
+            "aspect": "16:9",
+            "height": 240
+          }
+        },
+        {
+          "id": "blk_2yzsksdm9e",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Filament - a... er... thing..."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_nrhqgvzdj4",
+          "type": "video",
+          "v": 1,
+          "fields": {
+            "source": "embed",
+            "title": "Video",
+            "aspect": "16:9",
+            "background": false,
+            "url": "https://www.youtube.com/watch?v=37iiXsTnT6c"
+          }
+        },
+        {
+          "id": "blk_p6t8pnwhzx",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "​The Garnisher. This was also selected as a winner of Joss Whedon's Dr Horrible contest, but when they found out we made both this and Stabbington they threw poor old Garnisher back. :("
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_y9qjm4xraw",
+          "type": "embed",
+          "v": 1,
+          "fields": {
+            "embed": {
+              "type": "url",
+              "url": "https://www.youtube.com/embed/RwE9Uuim-yo?wmode=opaque"
+            },
+            "title": "Embedded content",
+            "aspect": "16:9",
+            "height": 240
+          }
+        },
+        {
+          "id": "blk_xyb71qzkb7",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Jonah watches himself watching himself watching something nasty."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "If you recognise the music you may know what it is."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_p0rene61w8",
+          "type": "embed",
+          "v": 1,
+          "fields": {
+            "embed": {
+              "type": "url",
+              "url": "https://www.youtube.com/embed/r5Yvcqe75v8?wmode=opaque"
+            },
+            "title": "Embedded content",
+            "aspect": "16:9",
+            "height": 240
+          }
+        },
+        {
+          "id": "blk_kkz37xdf7p",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Another old whimsical thing knocked out one afternoon with friends in after Sunday lunch. Happy days."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_b8b3sp0ngc",
+          "type": "embed",
+          "v": 1,
+          "fields": {
+            "embed": {
+              "type": "url",
+              "url": "https://www.youtube.com/embed/plHPf09HbG8?wmode=opaque"
+            },
+            "title": "Embedded content",
+            "aspect": "16:9",
+            "height": 240
+          }
+        },
+        {
+          "id": "blk_7nxtkn7mxg",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Just more mucking about."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Powered by   Create your own unique website with customizable templates.  Get Started",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://www.weebly.com/signup?utm_source=internal&utm_medium=footer",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_sandq3r5dn",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_0rfth1wcaw",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Oscar Sharp",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/oscar-sharp-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Watch Films",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/watch-films-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Awards etc.",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/awards-etc-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Press & Quotes",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/press-quotes-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Contact",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/contact-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Links",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/links-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    }
+  ]
+}

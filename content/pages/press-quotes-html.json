@@ -1,0 +1,575 @@
+{
+  "id": "pg_jegep3w1bf",
+  "title": "Press & Quotes",
+  "slug": "press-quotes-html",
+  "seo": {
+    "description": "People",
+    "image": "media/2026/11/screenshot-2016-08-11-23-12-39-1-4f87.png"
+  },
+  "sections": [
+    {
+      "id": "sec_w690svahw6",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_g8trvhhbee",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/1353322000-fdqn.png",
+              "alt": "Therefore Films",
+              "width": 52,
+              "height": 50,
+              "mediaId": "med_fdqn4t6j67"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1",
+      "anchor": "header"
+    },
+    {
+      "id": "sec_2ademg1bxv",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_vypzhks0py",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Oscar Sharp",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/oscar-sharp-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Watch Films",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/watch-films-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Awards etc.",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/awards-etc-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Press & Quotes",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/press-quotes-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Contact",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/contact-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Links",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/links-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_c59dr6hxdk",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "⇐ SUNSPRING PRESS.",
+            "link": {
+              "type": "page",
+              "page": "pg_42m64jdkqh"
+            },
+            "role": "primary"
+          }
+        },
+        {
+          "id": "blk_rwbp9xrxbx",
+          "type": "table",
+          "v": 1,
+          "fields": {
+            "columns": [
+              {
+                "label": "Column 2",
+                "highlight": false
+              }
+            ],
+            "rows": [
+              {
+                "label": "Oscar Sharp To Direct Ben Mezrich Mammoth Thriller ‘Woolly”",
+                "group": false,
+                "cells": [
+                  {
+                    "value": "Profile Article, Culture"
+                  }
+                ]
+              }
+            ]
+          },
+          "variant": "lines"
+        },
+        {
+          "id": "blk_x5a3jxxs7q",
+          "type": "table",
+          "v": 1,
+          "fields": {
+            "columns": [
+              {
+                "label": "Column 2",
+                "highlight": false
+              }
+            ],
+            "rows": [
+              {
+                "label": "Screen Stars of Tomorrow 2015",
+                "group": false,
+                "cells": [
+                  {
+                    "value": "\"Tobey Maguire’s Material Signs Oscar Sharp To Blind Deal\""
+                  }
+                ]
+              }
+            ]
+          },
+          "variant": "lines"
+        },
+        {
+          "id": "blk_a53xyn6y66",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/3500634-orig-4c6j.png",
+              "alt": "Picture",
+              "width": 608,
+              "height": 83,
+              "mediaId": "med_4c6j070p4j"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_q78x3x15y8",
+          "type": "table",
+          "v": 1,
+          "fields": {
+            "columns": [
+              {
+                "label": "Column 2",
+                "highlight": false
+              }
+            ],
+            "rows": [
+              {
+                "label": "Interview by Sarah Salovaara",
+                "group": false,
+                "cells": [
+                  {
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          "variant": "lines"
+        },
+        {
+          "id": "blk_86k1g3czg6",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "· People “Oscar Sharp stands out because there is an original comedic voice at work in his films. His humour is surreal and anarchic, in the best British tradition.” - Sir Alan Parker - Midnight Express, Evita \"One of the best short films I've seen.\" - Ava DuVernay ​ - Selma \"I fucking loved that one.\" - Joss Whedon (re The Stabbington Application) \"The short packs in an amazing amount. You get a little slice of life, a well-developed main character and really touching moments. It is also stunningly edited.” - Mike Newell - Harry Potter, Four Weddings “The direction is amazing...quite beautiful...thanks for pushing the medium forward! In a crazy, beautiful way!” - David Chen - Slash Film “His work has universal appeal because it explores questions that have crossed everybody's minds.” - James King - BBC Radio 1 \"The Kármán Line was exceptional. Most of all Olivia Colman's performance ... I have rarely seen her better.\" - Christopher Priest - Author: The Prestige \"Great stuff.\" - John Hurt - Alien, The Elephant Man “I really like your work.” - Todd Solondz - Happiness, Palindromes \"Incredibly Moving.\" - Paul Haggis - Crash, Million Dollar Baby \"This is a film that people really do need to see.\" - Zoë Ball - BBC Radio 1 “Combines lots of clever techniques to give us a real sense of what the character wants.” - Chris Collins - British Film Institute · Publications​ \"Sharp is a huge talent, masterly with tone and style.\" - The New Yorker - Sarah Larson \"Sharp has established himself as a master of creating extraordinary scenarios, yet at the same time making them feel realistic and human\" - Short Of The Week “The search for Britain’s next great film director is over.” - Sunday Telegraph \"Oscar Sharp’s The Kármán Line is a fascinatingly surreal and moving fantasy-parable.\" - The Guardian - Peter Bradshaw \"Oscar Sharp's The Kármán Line naturally levitates above the pack, a brilliantly executed tragicomedy which simply plays out variations on a single, ingenious idea.\" - Little White Lies \"A quietly devastating film that may be one of the best works of art you’ll see on the big screen this year.\" - Londonist \"Oscar Sharp is a maverick.\" - Flavorpill “Amazing. It was like watching someone’s dream.” - The Observer - Ellie Rowsell of Wolf Alice \"Pairing deadpan tonality with the outlandish imagination of a Roald Dahl story, it’s not often that a movie so bizarre in conception succeeds so well in execution, and Sharp might very well be set to follow his protagonist’s skyward trajectory.\" - Filmcomment.com \"Suggests the future of the British film Industry may be in safe hands\" - The List \"This movie says in 5 mins what most hollywood movies can't say in 90 mins.\" - Most 'liked' YouTube comment ·"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_sys8zxrb55",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "BAFTA Red Carpet interview"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "(video should play from 35:45 automatically)"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_4ws0svwr1z",
+          "type": "embed",
+          "v": 1,
+          "fields": {
+            "embed": {
+              "type": "url",
+              "url": "https://www.youtube-nocookie.com/embed/wOhPmqOZ4i0?start=2125&end=2310"
+            },
+            "title": "Embedded content",
+            "aspect": "16:9",
+            "height": 240
+          }
+        },
+        {
+          "id": "blk_5rt032zdyr",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Powered by   Create your own unique website with customizable templates.  Get Started",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://www.weebly.com/signup?utm_source=internal&utm_medium=footer",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1",
+      "anchor": "wrapper"
+    },
+    {
+      "id": "sec_mxp4pver0e",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_z0vvkn7bgy",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Oscar Sharp",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/oscar-sharp-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Watch Films",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/watch-films-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Awards etc.",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/awards-etc-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Press & Quotes",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/press-quotes-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Contact",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/contact-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Links",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/links-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    }
+  ]
+}

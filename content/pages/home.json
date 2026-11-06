@@ -1,39 +1,63 @@
 {
-  "$schema": "https://schema.openspace.host/v1/page.json",
-  "id": "pg_6vjf56pn61",
+  "id": "pg_qyzew3ryk9",
   "title": "Home",
   "slug": "",
   "seo": {
-    "title": null,
-    "description": "Thereforefilms.com is being set up.",
-    "noindex": true
+    "title": "Therefore Films",
+    "description": "Oscar Sharp - Filmmaker",
+    "image": "media/2026/11/variety-magazine-logo-svg-ng7s.png"
   },
   "sections": [
     {
-      "id": "sec_fcd51b74ce",
+      "id": "sec_qd5ym7t0nh",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
             12
           ]
-        },
-        "align": "center",
-        "width": "narrow"
+        }
       },
       "style": {
-        "colorTheme": "light",
-        "padding": {
-          "d": "xl",
-          "m": "lg"
-        },
-        "minHeight": {
-          "d": "70vh"
-        }
+        "colorTheme": "light"
       },
       "blocks": [
         {
-          "id": "blk_w08zf9arn6",
+          "id": "blk_2hzkp8e9xh",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/1353322000-fdqn.png",
+              "alt": "Therefore Films",
+              "width": 52,
+              "height": 50,
+              "mediaId": "med_fdqn4t6j67"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1",
+      "anchor": "header"
+    },
+    {
+      "id": "sec_kd3vpt4ysm",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_w2r3k8shmf",
           "type": "text",
           "v": 1,
           "fields": {
@@ -41,14 +65,139 @@
               "type": "doc",
               "content": [
                 {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 1
-                  },
+                  "type": "bulletList",
                   "content": [
                     {
-                      "type": "text",
-                      "text": "Thereforefilms.com"
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Oscar Sharp",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/oscar-sharp-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Watch Films",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/watch-films-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Awards etc.",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/awards-etc-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Press & Quotes",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/press-quotes-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Contact",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/contact-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Links",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/links-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -57,7 +206,7 @@
           }
         },
         {
-          "id": "blk_gnxy46c7h2",
+          "id": "blk_6k24j6zbnc",
           "type": "text",
           "v": 1,
           "fields": {
@@ -69,7 +218,179 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "This site is being set up. Please check back soon."
+                      "text": "· ​DAMON LINDELOF, MATT REEVES & OSCAR SHARP ​Team for HBO Max Fantastical Medical Drama"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_k968383fbq",
+          "type": "table",
+          "v": 1,
+          "fields": {
+            "columns": [
+              {
+                "label": "Column 2",
+                "highlight": false
+              }
+            ],
+            "rows": [
+              {
+                "label": "​Watch THE KÁRMÁN LINE starring OLIVIA COLMAN (25m)",
+                "group": false,
+                "cells": [
+                  {
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          "variant": "lines"
+        },
+        {
+          "id": "blk_2vpr69c138",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "· ​Watch SUNSPRING (2016) - the first film ever written by an Artificial Intelligence"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_8y6451nt3m",
+          "type": "table",
+          "v": 1,
+          "fields": {
+            "columns": [
+              {
+                "label": "Column 2",
+                "highlight": false
+              }
+            ],
+            "rows": [
+              {
+                "label": "​\"AI Made a Movie - and the Results are Horrifyingly Encouraging\"",
+                "group": false,
+                "cells": [
+                  {
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          "variant": "lines"
+        },
+        {
+          "id": "blk_01yjvjf5kt",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "· \"Oscar Sharp to Direct Ben Mezrich Mammoth Thriller ‘Woolly' for Fox”"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_1ff987tjqc",
+          "type": "table",
+          "v": 1,
+          "fields": {
+            "columns": [
+              {
+                "label": "Column 2",
+                "highlight": false
+              }
+            ],
+            "rows": [
+              {
+                "label": "​​​Full profile & ​​​top cultural moment of the year.",
+                "group": false,
+                "cells": [
+                  {
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          },
+          "variant": "lines"
+        },
+        {
+          "id": "blk_t6s2z2aadj",
+          "type": "table",
+          "v": 1,
+          "fields": {
+            "columns": [
+              {
+                "label": "Column 2",
+                "highlight": false
+              }
+            ],
+            "rows": [
+              {
+                "label": " ",
+                "group": false,
+                "cells": [
+                  {
+                    "value": "​Named Star of Tomorrow by Screen International."
+                  }
+                ]
+              }
+            ]
+          },
+          "variant": "lines"
+        },
+        {
+          "id": "blk_8rnkmzd0mn",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Powered by   Create your own unique website with customizable templates.  Get Started",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://www.weebly.com/signup?utm_source=internal&utm_medium=footer",
+                            "newTab": true
+                          }
+                        }
+                      ]
                     }
                   ]
                 }
@@ -77,7 +398,175 @@
             }
           }
         }
-      ]
+      ],
+      "preset": "starter/stack-12@1",
+      "anchor": "wrapper"
+    },
+    {
+      "id": "sec_dtspz81bbf",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_sb6ww1ztv9",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Oscar Sharp",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/oscar-sharp-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Watch Films",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/watch-films-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Awards etc.",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/awards-etc-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Press & Quotes",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/press-quotes-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Contact",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/contact-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Links",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/links-html/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
     }
   ]
 }
