@@ -1,0 +1,83 @@
+{
+  "$schema": "https://schema.openspace.host/v1/page.json",
+  "id": "pg_6vjf56pn61",
+  "title": "Home",
+  "slug": "",
+  "seo": {
+    "title": null,
+    "description": "Thereforefilms.com is being set up.",
+    "noindex": true
+  },
+  "sections": [
+    {
+      "id": "sec_fcd51b74ce",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "align": "center",
+        "width": "narrow"
+      },
+      "style": {
+        "colorTheme": "light",
+        "padding": {
+          "d": "xl",
+          "m": "lg"
+        },
+        "minHeight": {
+          "d": "70vh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_w08zf9arn6",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Thereforefilms.com"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_gnxy46c7h2",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "This site is being set up. Please check back soon."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

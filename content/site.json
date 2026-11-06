@@ -1,0 +1,59 @@
+{
+  "$schema": "https://schema.openspace.host/v1/site.json",
+  "title": "Thereforefilms.com",
+  "nav": [
+    {
+      "type": "page",
+      "page": "pg_6vjf56pn61",
+      "label": "Home"
+    }
+  ],
+  "header": {
+    "variant": "classic-left",
+    "sticky": false,
+    "transparentOnHero": false,
+    "mobileMenu": "slide"
+  },
+  "footer": {
+    "id": "sec_0vq4d4m4e5",
+    "layout": {
+      "mode": "stack",
+      "columns": {
+        "d": [
+          12
+        ]
+      },
+      "align": "center"
+    },
+    "style": {
+      "colorTheme": "light",
+      "padding": {
+        "d": "md"
+      }
+    },
+    "blocks": [
+      {
+        "id": "blk_4ex7000k99",
+        "type": "text",
+        "v": 1,
+        "fields": {
+          "content": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Thereforefilms.com"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "locale": "en"
+}
